@@ -1,0 +1,52 @@
+2025-03-08 14:12:09,484 - root - INFO - 日志系统初始化成功
+2025-03-08 14:12:09,767 - root - INFO - 初始化数据集生成器，输出目录: library_dataset，随机种子: 1741414329
+2025-03-08 14:12:09,767 - root - INFO - 开始生成完整数据集，用户数: 500，图书数: 1000
+2025-03-08 14:12:09,767 - root - INFO - 开始生成 500 个用户数据...
+2025-03-08 14:15:10,572 - root - INFO - 日志系统初始化成功
+2025-03-08 14:15:10,660 - root - INFO - 初始化数据集生成器，输出目录: library_dataset，随机种子: 1741414510
+2025-03-08 14:15:10,660 - root - INFO - 开始生成完整数据集，用户数: 500，图书数: 1000
+2025-03-08 14:15:10,660 - root - INFO - 开始生成 500 个用户数据...
+2025-03-08 14:15:10,738 - root - INFO - 成功生成 500 条用户数据
+2025-03-08 14:15:10,739 - root - INFO - 开始生成 1000 本图书数据...
+2025-03-08 14:15:10,864 - root - INFO - 成功生成 1000 条图书数据
+2025-03-08 14:15:10,864 - root - INFO - 开始生成借阅历史数据...
+2025-03-08 14:15:12,025 - root - INFO - 成功生成 18038 条借阅历史数据
+2025-03-08 14:15:12,026 - root - INFO - 开始生成评分数据...
+2025-03-08 14:15:12,584 - root - INFO - 成功生成 10456 条评分数据
+2025-03-08 14:15:12,585 - root - INFO - 开始分析数据集...
+2025-03-08 14:15:12,601 - root - INFO - 数据集分析完成
+2025-03-08 14:15:12,601 - root - INFO - 保存数据集到 library_dataset
+2025-03-08 14:15:12,606 - root - INFO - 用户数据已保存：500 条记录
+2025-03-08 14:15:12,609 - root - INFO - 图书数据已保存：1000 条记录
+2025-03-08 14:15:12,628 - root - INFO - 借阅历史已保存：18038 条记录
+2025-03-08 14:15:12,641 - root - INFO - 评分数据已保存：10456 条记录
+2025-03-08 14:15:12,648 - root - INFO - 协同过滤评分数据已保存：10456 条记录
+2025-03-08 14:15:12,648 - root - INFO - 完整数据集生成完成
+2025-03-08 14:15:12,648 - root - INFO - 开始可视化数据集...
+2025-03-08 14:15:13,297 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-08 14:15:13,301 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-08 14:15:13,828 - root - INFO - 数据集可视化完成，结果保存到 library_dataset\visualizations
+2025-03-08 14:17:12,758 - root - INFO - 日志系统初始化成功
+2025-03-08 14:17:12,839 - root - INFO - 初始化数据集生成器，输出目录: library_dataset，随机种子: 1741414632
+2025-03-08 14:17:12,839 - root - INFO - 开始生成完整数据集，用户数: 500，图书数: 1000
+2025-03-08 14:17:12,839 - root - INFO - 开始生成 500 个用户数据...
+2025-03-08 14:17:12,925 - root - INFO - 成功生成 500 条用户数据
+2025-03-08 14:17:12,925 - root - INFO - 开始生成 1000 本图书数据...
+2025-03-08 14:17:13,054 - root - INFO - 成功生成 1000 条图书数据
+2025-03-08 14:17:13,054 - root - INFO - 开始生成借阅历史数据...
+2025-03-08 14:17:14,300 - root - INFO - 成功生成 19791 条借阅历史数据
+2025-03-08 14:17:14,301 - root - INFO - 开始生成评分数据...
+2025-03-08 14:17:14,896 - root - INFO - 成功生成 11594 条评分数据
+2025-03-08 14:17:14,897 - root - INFO - 开始分析数据集...
+2025-03-08 14:17:14,909 - root - INFO - 数据集分析完成
+2025-03-08 14:17:14,909 - root - INFO - 保存数据集到 library_dataset
+2025-03-08 14:17:14,913 - root - INFO - 用户数据已保存：500 条记录
+2025-03-08 14:17:14,917 - root - INFO - 图书数据已保存：1000 条记录
+2025-03-08 14:17:14,939 - root - INFO - 借阅历史已保存：19791 条记录
+2025-03-08 14:17:14,952 - root - INFO - 评分数据已保存：11594 条记录
+2025-03-08 14:17:14,958 - root - INFO - 协同过滤评分数据已保存：11594 条记录
+2025-03-08 14:17:14,958 - root - INFO - 完整数据集生成完成
+2025-03-08 14:17:14,958 - root - INFO - 开始可视化数据集...
+2025-03-08 14:17:15,473 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-08 14:17:15,478 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-08 14:17:15,984 - root - INFO - 数据集可视化完成，结果保存到 library_dataset\visualizations
